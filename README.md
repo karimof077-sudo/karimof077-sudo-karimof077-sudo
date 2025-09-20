@@ -1,21 +1,79 @@
-<h1 align="center">Hi 👋, I'm Abrorbek Karimov</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&width=700&lines=Hi%2C+there!+I'm+Azizbek+Ahmadjonov;Welcome+to+my+GitHub!+👋">
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karimof077-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="karimof077-sudo" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500" height="300">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karimof077-sudo" alt="karimof077-sudo" /></a> </p>
+---
 
-- 📫 How to reach me **karimof077@gmail.com**
-
-- ⚡ Fun fact **I write backend codes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">✨ My GitHub Stats & Most Used Languages ✨</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karimof077-sudo&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimof077-sudo&layout=compact&theme=radical" alt="Most Used Languages" width="38%">
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karimof077-sudo&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karimof077-sudo&show_icons=true&locale=en&layout=compact" alt="karimof077-sudo" /></p>
+<h3 align="center">🌟 About Me 🌟</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karimof077-sudo&show_icons=true&locale=en" alt="karimof077-sudo" /></p>
+<ul>
+  <li>💻 I am a <strong>backend developer</strong>.</li>
+  <li>📂 Check out all my projects on <a href="https://github.com/karimof077-sudo?tab=repositories" target="_blank"><strong>karimof077-sudo's GitHub</strong></a>.</li>
+  <li>🏫 I am currently studying at <a href="https://najottalim.uz" target="_blank"><strong>Najot Ta'lim</strong></a>.</li>
+</ul>
+
+---
+
+<h3 align="center">⚙️ Languages & Tools I Use ⚙️</h3>
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.django-rest-framework.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="Django Rest Framework" width="40" height="40"/>
+  </a>
+</p>
+
+
+---
+
+<h3 align="center">📞 Connect With Me 📞</h3>
+<p align="center">
+  <a href="https://t.me/Abror_An" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://instagram.com/karimov_biker" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+---
+
+<h4 align="center">Thank you for visiting my profile! 🚀</h4>
